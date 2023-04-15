@@ -1,7 +1,7 @@
 # Visão geral 
 
-*Uma micro empresa e-commerce quer criar um novo ICP mais preciso mas para isso e preciso 
-investi na empresa. O dono não tem tem certeza se vale a pena realizar o investimento*.
+*Uma micro empresa e-commerce quer criar um novo ICP, mas para isso e preciso 
+investi na empresa. E o dono não tem tem certeza se vale a pena realizar o investimento*.
 
 ### Qual foi a descisão tomada?
 *Realizar uma analise de desempenho medindo o quanto de lucro foi obtido em relação 
