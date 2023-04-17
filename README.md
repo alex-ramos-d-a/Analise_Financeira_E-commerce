@@ -25,5 +25,6 @@ estão com valores positivos diferente do ano anterior*
 ## Descoberta     
 * Na distribuição de lucro mensal temos um grande crescimento exponencial no mês 9 de 2018 até o mês 4 de 2019.
 
-## Analise detalhada do projeto 
-[![PDF](https://user-images.githubusercontent.com/115717016/232543417-ab8c2f2b-95d0-44de-931f-78175b80e2e6.png)](https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados/blob/master/E-commerce_Analise%20de%20dados.pdf)
+## PDF
+[E-commerce_Analise de dados.pdf](https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados/files/11252846/E-commerce_Analise.de.dados.pdf)
+
