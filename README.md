@@ -1,11 +1,6 @@
 # Visão geral 
-
-*Uma micro empresa e-commerce quer criar um novo ICP, mas para isso e preciso 
-investi na empresa. E o dono não tem tem certeza se vale a pena realizar o investimento*.
-
-### Qual foi a descisão tomada?
-*Realizar uma analise de desempenho medindo o quanto de lucro foi obtido em relação 
-a meta e responder se vale a pena investir*.
+Uma empresa indiana de e-commerce quer descobrir um perfil de cliente mais preciso.
+E para isso será feita uma analise financeira do negocio nos anos 2018 e 2019.
 
 ## Sumario da analise:
 1. Preparação dos dados
@@ -24,3 +19,7 @@ estão com valores positivos diferente do ano anterior*
 
 ## Descoberta     
 * Na distribuição de lucro mensal temos um grande crescimento exponencial no mês 9 de 2018 até o mês 4 de 2019.
+
+## PDF
+[E-commerce_Analise de dados.pdf](https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados/files/11252846/E-commerce_Analise.de.dados.pdf)
+
